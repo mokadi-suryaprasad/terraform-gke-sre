@@ -275,7 +275,7 @@ Instrumentation means adding monitoring to applications, systems, or services. T
 - **Distributed Tracing**: Use Jaeger to trace requests across services.
 
 # Architecture
-![Project Architecture](images/architecture.gif)
+![alt text](architecture.gif)
 
 ## 1) Add Custom Metrics
 - Look at `day-4/application/service-a/index.js` for details.
