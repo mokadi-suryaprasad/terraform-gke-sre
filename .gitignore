@@ -1,0 +1,23 @@
+# Terraform state and backup files
+*.tfstate
+*.tfstate.backup
+
+# Terraform plan files
+*.tfplan
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# Local Terraform directories
+.terraform/
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
+
+# Ignore any temporary files
+.DS_Store
+Thumbs.db
